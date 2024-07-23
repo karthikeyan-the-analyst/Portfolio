@@ -9,14 +9,14 @@ const projects = [
     title: "Pizza Sales Analysis - Power BI and SQL",
     cardImage: "assets/images/techstack-page/pizza.jpg",
     description: "This was an interesting project. I first analyzed all the data in SQL and also created a PDF report from it. Then, I visualized the data and created the dashboard to Viualize the actionable insights in Power BI.",
-    Previewlink: "https://app.powerbi.com/groups/me/reports/d0000a0d-2e6d-41d6-80d2-7b74f8689b51/ReportSection?experience=power-bi",
+    Previewlink: "https://mavenanalytics.io/project/16775",
     Githublink: "https://github.com/karthikeyan-the-analyst/Pizza-Sales-Data-Analysis",
   },
   {
     title: "Bank Loan Analysis - Power BI and SQL",
     cardImage: "assets/images/techstack-page/Bank.png",
     description: "This project delves into a detailed analysis of bank loan data, utilizing SQL for data querying and manipulation, followed by visualization and further analysis in Power BI.",
-    Previewlink: "https://app.powerbi.com/groups/me/reports/e7f87f3e-60ad-4020-b2b9-444bb7939fd3/ReportSection?experience=power-bi",
+    Previewlink: "https://mavenanalytics.io/project/17612",
     Githublink: "https://github.com/karthikeyan-the-analyst/Bank-Loan-Data-Analysis",
   },
   {
@@ -37,7 +37,7 @@ const projects = [
     title: "Blinkit Analysis - Power BI",
     cardImage: "assets/images/techstack-page/blinkit.jpg",
     description: "This project delves into a detailed analysis of Blinkit Grossery Data to understand the establishment and Customer preference.",
-    Previewlink: "https://app.powerbi.com/groups/me/reports/d97f07de-d014-4d53-9354-897b190d2fa1/ReportSection?experience=power-bi",
+    Previewlink: "https://mavenanalytics.io/project/17613",
     Githublink: "https://github.com/karthikeyan-the-analyst/Blinkit-Analysis",
   },
   /*{
