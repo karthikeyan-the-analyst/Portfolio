@@ -7,7 +7,7 @@ const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
     title: "Pizza Sales Analysis - Power BI and SQL",
-    cardImage: "assets/images/techstack-page/pizza.jpg",
+    cardImage: "assets/images/techstack-page/pizza.jpg", 
     description: "This was an interesting project. I first analyzed all the data in SQL and also created a PDF report from it. Then, I visualized the data and created the dashboard to Viualize the actionable insights in Power BI.",
     Previewlink: "https://mavenanalytics.io/project/16775",
     Githublink: "https://github.com/karthikeyan-the-analyst/Pizza-Sales-Data-Analysis",
