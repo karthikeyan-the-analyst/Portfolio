@@ -7,7 +7,7 @@ const exp = [
     cardImage: "assets/images/experience-page/Cognifyz.png",
     place: "Online",
     time: "( Present )",
-    desp: "<li>This is a virtual Data Analysis internship.</li> <li>I am currently working on these areas Pyhton, Data cleaning, Pre-processing and Visualising the data.</li>",
+    desp: "<li>I have successfully completed a virtual Data Analysis internship, where I focused on key areas such as Python programming, data cleaning, and pre-processing.</li> <li>I also worked on visualizing data to extract meaningful insights, ensuring the data was ready for in-depth analysis and decision-making.</li>",
   },
 ];
 
