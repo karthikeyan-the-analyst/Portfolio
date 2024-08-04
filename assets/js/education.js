@@ -2,6 +2,11 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Data Science",
+    cardImage: "assets/images/education-page/Data Science Certification.jpg",
+    moocLink: "https://drive.google.com/file/d/1CEdXU4ORLrHHnRgWVGcJcF3eCyZVbjUx/view?usp=drivesdk",
+  },
+  {
     title: "Data Analytics and Visualization job simulation",
     cardImage: "assets/images/education-page/Data Analyst Virtual Intenship.png",
     moocLink: "https://drive.google.com/file/d/18L1j8e4iRr9pm_LaPIdKlxPRi85hzWFq/view",
